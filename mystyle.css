@@ -1,0 +1,39 @@
+.bgimg {
+    background-image: linear-gradient(rgba(10, 2, 7, 0.288), rgba(50, 50, 100, 0.7)),url('abcd.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height:838px;
+
+
+}
+
+.mynav{
+    background: black;
+}
+
+.headerset {
+    padding-top: 60px;
+    box-sizing: border-box;
+
+}
+.headerset h1{
+    font-size: 39px;
+    font-weight: bold;
+}
+
+.headerset h3 {
+    font-size: 21px;
+
+
+}
+.para {
+    margin-left: 38px;;
+    font-size: 20px;
+    font-weight: bold;
+    color:white;
+}
+select {
+    -webkit-appearance: none;
+    appearance: none;
+}
